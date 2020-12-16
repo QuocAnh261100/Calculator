@@ -1,2 +1,2 @@
 # Calculator
-OOP assignment
+Program super-calculator for OOP final project
